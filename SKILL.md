@@ -1,6 +1,6 @@
 ---
 name: kirby-fitzpatrick-rhetorical-preflight-gate
-description: "Map situational triggers, blast radius, and reviewer persona before emitting code changes." Use this when working on fitzpatrick rhetorical preflight gate.
+description: "Map situational triggers, blast radius, and reviewer persona before emitting code changes. Use this when working on fitzpatrick rhetorical preflight gate."
 category: "Writing & Communication"
 triggers:
   - "rhetorical preflight gate"
